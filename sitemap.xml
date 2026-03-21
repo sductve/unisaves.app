@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://unisaves.app/</loc>
+    <lastmod>2026-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+```
+
+**Step 2 — Also create `robots.txt`** in the same root folder:
+```
+User-agent: *
+Allow: /
+Sitemap: https://unisaves.app/sitemap.xml
