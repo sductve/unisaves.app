@@ -8,9 +8,3 @@
   </url>
 </urlset>
 ```
-
-**Step 2 — Also create `robots.txt`** in the same root folder:
-```
-User-agent: *
-Allow: /
-Sitemap: https://unisaves.app/sitemap.xml
